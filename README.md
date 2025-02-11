@@ -11,7 +11,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Developer+From+Sri+Lanka;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full-Stack+Developer+From+Sri+Lanka;&center=true&width=380&height=45"></a>
 </p>
     </div>
 <!--     <div align=center>
@@ -25,7 +25,7 @@
             <strong>
                 <p>
     <strong>
-        Computer Science Student | Frontend Engineer specializing in Next.js and Angular. Currently enhancing skills in Angular and learning Go .
+        Computer Science Student | Full-Stack Engineer specializing in Next.js,Go,React and Angular. Currently enhancing skills in Angular and learning Go .
     </strong>
 </p>
             </strong>
