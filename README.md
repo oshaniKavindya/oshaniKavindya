@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://img.freepik.com/free-vector/drawn-flat-design-metaverse-illustration_52683-80932.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/user-attachments/assets/ea4b0225-0e09-43c3-a0f0-c0feb766883f" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
         Hi, I'm Oshani Kavindya!
@@ -11,7 +11,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Developer;&center=true&width=380&height=45"></a>
 </p>
     </div>
 <!--     <div align=center>
@@ -31,7 +31,7 @@
             </strong>
         </p>
       <ul>
-    <li>🌱 <b>I’m currently learning</b>: Angular, React, Go, Node.js, Next.js</li>
+    <li>🌱 <b>I’m currently learning</b>: Angular, Go, Next.js</li>
     <li>📫 <b>How to reach me</b>: <a href="mailto:oshanikavindya06@gmail.com">oshanikavindya06@gmail.com</a></li>
 <!--             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li> -->
 <!--             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li> -->
