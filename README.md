@@ -25,7 +25,7 @@
             <strong>
                 <p>
     <strong>
-        Computer Science Student | Front-End Engineer specializing in Next.js and Angular. Currently enhancing skills in Angular and learning Go .
+        Computer Science Student | Frontend Engineer specializing in Next.js and Angular. Currently enhancing skills in Angular and learning Go .
     </strong>
 </p>
             </strong>
